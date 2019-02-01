@@ -1,0 +1,12 @@
+com.tal.kaoyan
+com.tal.kaoyan.ui.activity.SplashActivity
+
+
+com.wondershare.drfone
+com.wondershare.drfone.ui.activity.WelcomeActivity
+
+com.mymoney
+com.mymoney.biz.splash.SplashScreenActivity
+
+com.baidu.BaiduMap
+com.baidu.baidumaps.WelcomeScreen
